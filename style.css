@@ -452,7 +452,7 @@ nav.navbar-white .fa-bars{
 }
 
 .house-info{
-    flex-basis: 58%;                          /* remaining 2% width is space b/w both columns */ 
+    flex-basis: 58%;                          
     color: #555;
 }
 
@@ -481,7 +481,7 @@ nav.navbar-white .fa-bars{
     font-size: 20px;
 }
 
-.house-price h4 span{                                    /* since we want to change the font-size of (/ day) so we put it inside <span> and use css in it */
+.house-price h4 span{                                    
     font-size: 16px;
     font-weight: 500;
 }
@@ -537,7 +537,7 @@ nav.navbar-white .fa-bars{
 }
 
 .right-arrow{
-    transform: rotate(180deg);                             /* we have rotated the 2nd arrow to the right by 180deg */
+    transform: rotate(180deg);                             
 }
 
 .pagination span{
@@ -799,6 +799,4 @@ nav.navbar-white .fa-bars{
     .contact-host{
         margin: 40px 0;
     }
-
-
 }
