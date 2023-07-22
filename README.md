@@ -4,7 +4,7 @@ This website is responsive on various devices.
 
 Just like the original Airbnb, this clone allows users to search and discover various short-term lodging options, connecting hosts offering accommodations with guests seeking a place to stay.
 
-#Features:
+# Features:
 Interactive homepage with a prominent search bar for destination, dates, and guest details.
 
 Extensive filtering options to refine search results based on price, property type, amenities, and more.
