@@ -14,3 +14,9 @@ Just like the original Airbnb, this clone allows users to search and discover va
 • Property pages displaying comprehensive information about each accommodation.
 
 • Responsive design, ensuring seamless user experiences across different devices.
+
+# Technologies Used:
+HTML and CSS for front-end development.
+
+# Note
+This project is a design clone and does not include the full back-end functionality or actual booking capabilities. It serves as a portfolio piece to showcase my web development skills and my ability to recreate complex user interfaces.
