@@ -18,7 +18,7 @@ Just like the original Airbnb, this clone allows users to search and discover va
 # Technologies Used:
 HTML and CSS for front-end development.
 
-# Demo
+# Demo 
 https://staybnbairbnbclone.netlify.app/
 
 
