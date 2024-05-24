@@ -23,4 +23,4 @@ https://staybnbairbnbclone.netlify.app/
 
 
 # Note
-This project is a design clone and does not include the full back-end functionality or actual booking capabilities. It serves as a portfolio piece to showcase my web development skills and my ability to recreate complex user interfaces.
+This project is a website design clone and does not include the full back-end functionality or actual booking capabilities. It serves as a portfolio piece to showcase my Front-end development skills and my ability to recreate complex user interfaces.
